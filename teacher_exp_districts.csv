@@ -1,0 +1,37 @@
+district_name,district_code,county,type_of_years,calculated_years,schools_included
+Anaheim Elementary,66423,Orange,unclear,included,24
+Bakersfield City,63321,Kern,district,calculated,44
+Berkeley Unified,61143,Alameda,district,included,16
+Beverly Hills Unified,64311,Los Angeles,district,calculated,4
+Capistrano Unified,66464,Orange,total,included,60
+Carlsbad Unified,73551,San Diego,district,included,16
+Chula Vista Elementary,68023,San Diego,unclear,included,46
+Corona-Norco Unified,67033,Riverside,total,included,52
+Escondido Union High,68106,San Diego,district,included,5
+Folsom-Cordova Unified,67330,Sacramento,unclear,included,34
+Fresno Unified,62166,Fresno,district,included,99
+Garden Grove Unified,66522,Orange,total,included,64
+Inglewood Unified,64634,Los Angeles,unclear,calculated,17
+Irvine Unified,73650,Orange,total,included,43
+Long Beach Unified,64725,Los Angeles,district,included,83
+Lost Hills Union,63594,Kern,district,included,2
+Manchester Union Elementary,65573,Mendocino,district,calculated,1
+Merced City Elementary,65771,Merced,district,calculated,19
+Natomas Unified,75283,Sacramento,district,calculated,15
+Nevada Joint Union High,66357,Nevada,total,calculated,5
+Newport-Mesa Unified,66597,Orange,total,included,31
+Oakland Unified,61259,Alameda,total,5-year categories,76
+Oceanside Unified,73569,San Diego,district,calculated,24
+Palos Verdes Peninsula Unified,64865,Los Angeles,district,calculated,17
+Placentia-Yorba Linda Unified,66647,Orange,district,calculated,34
+San Bernardino City Unified,67876,San Bernardino,district,included,71
+San Diego Unified,68338,San Diego,district,included,174
+San Dieguito Union High,68346,San Diego,district,calculated,10
+San Juan Unified,67447,Sacramento,unclear,included,66
+San Ramon Valley Unified,61804,Contra Costa,district,calculated,36
+San Ysidro Elementary,68379,San Diego,district,calculated,7
+Santa Ana Unified,66670,Orange,total,included,51
+South Bay Union,68395,San Diego,district,calculated,12
+Sweetwater Union High,68411,San Diego,district,included,28
+Vallejo City Unified,70581,Solano,unclear,included,19
+West Contra Costa Unified,61796,Contra Costa,total,included,52
